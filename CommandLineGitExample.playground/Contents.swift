@@ -2,4 +2,6 @@
 
 import Cocoa
 
-var str = "Hello, playground"
+print("Goodbye friend")
+
+
